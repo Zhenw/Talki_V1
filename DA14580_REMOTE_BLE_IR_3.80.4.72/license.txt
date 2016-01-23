@@ -1,5 +1,5 @@
 BLE LICENSES
-
+ssss
 NAME                    LICENSE FILE PATH                                               LICENSE                   COMMENTS
 -------------------------------------------------------------------------------------------------------------------------
 DA14580 apllication     dk_apps\src\modules\app\src\app_proxr.c                         Dialog Semiconductor Ltd
